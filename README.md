@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
   <div align="center">
-    <h1>Olá, eu sou <a href="https://github.com/FuturisNex/FuturisNex">Gustavo </a>😃️</h1>
+    <h1>Olá, eu sou Gustavo 😃️</h1>
         <p>🎨 Transformando minhas ideias em experiências digitais.</p>
     <br>
   </div>
