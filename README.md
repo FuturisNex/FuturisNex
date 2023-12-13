@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <body>
   <div align="center">
     <h1>Olá, eu sou Gustavo 😃️</h1>
