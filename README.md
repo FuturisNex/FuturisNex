@@ -8,7 +8,7 @@
   </div>
   
   <div align="center">
-    <a href="https://github.com/Gustavo-LionStar">
+    <a href="https://github.com/FuturisNex">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FuturisNex&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" alt="GitHub Status" />
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuturisNex&theme=dracula&hide_border=false&&layout=compact" alt="Linguagens Mais Usadas" />
     </a>
